@@ -22,7 +22,7 @@ Currently at **Qi Card** (International Smart Card), building **Karum** (e-comme
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 | Category | Technologies |
 |---|---|
@@ -39,7 +39,7 @@ Currently at **Qi Card** (International Smart Card), building **Karum** (e-comme
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidtsx&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaidtsx&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=zaidtsx&theme=radical" alt="GitHub Streak" />
