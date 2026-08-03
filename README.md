@@ -6,19 +6,9 @@
 
 ## About Me
 
-Software Engineer with **5+ years** of production experience architecting and building scalable backend systems in **C#** and **.NET / ASP.NET Core** for government and fintech sectors. Proven track record in high-throughput environments, including platforms processing **50,000+ daily transactions** across **500+ sites**.
-
-Strong background in **Clean Architecture**, **Domain-Driven Design (DDD)**, and modern frontend frameworks (**React**, **Next.js**). Holds an **M.Sc. in Computer Science** (Harbin Institute of Technology, 2025) with specialized research in retrieval-augmented recommendation systems.
-
+Software Engineer with **5+ years** of production experience architecting and building scalable backend systems in **C#** and **.NET / ASP.NET Core** for government and fintech sectors. Proven track record in high-throughput environments, including platforms processing 50,000+ daily transactions across 500+ sites. Strong background in Clean Architecture, Domain-Driven Design (DDD), and modern frontend frameworks (**React**, **Next.js**). Holds an **M.Sc. in Computer Science** (Harbin Institute of Technology, 2025) with specialized research in retrieval-augmented recommendation systems. Particularly drawn to complex system architecture and reliability constraints.
+ 
 Currently at **Qi Card** (International Smart Card), building **Karum** (e-commerce) and **Radd** (AI-powered B2B support platform using RAG + Anthropic SDK).
-
----
-
-## Education
-
-- **M.Sc. Computer Science** — Harbin Institute of Technology, Shenzhen (2023–2025)
-  Thesis: *RAMRec – Retrieval-Augmented Memory for Sequential Recommendation* (+10.5% NDCG@10 over SOTA)
-- **B.Sc. Network Engineering** — Iraqi University, Baghdad (2016–2020)
 
 ---
 
