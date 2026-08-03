@@ -49,7 +49,7 @@ Currently at **Qi Card** (International Smart Card), building **Karum** (e-comme
 
 ## Connect with Me
 
-- 📧 Email: zaidqassim12@gmail.com
-- 📱 Phone: +964 782 102 7100
-- 💼 LinkedIn: [Zaid Qassim](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🌍 Languages: Arabic (Native) · English (Professional) · Mandarin (Basic)
+- Email: zaidqassim12@gmail.com
+- Phone: +964 782 102 7100
+- LinkedIn: [Zaid Qassim](https://linkedin.com/in/YOUR_LINKEDIN)
+- Languages: Arabic (Native) · English (Professional) · Mandarin (Basic)
