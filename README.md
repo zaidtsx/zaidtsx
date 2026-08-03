@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Zaid Qassim 👋</h1>
-<p align="center">Software Engineer | .NET Core & C# | Clean Architecture & DDD</p>
-<p align="center">📍 Baghdad, Iraq</p>
+<p align="center">Software Engineer | .NET Core & C# | Next.js | Clean Architecture & DDD</p>
+<p align="center"> Baghdad, Iraq</p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Software Engineer with **5+ years** of production experience architecting and building scalable backend systems in **C#** and **.NET / ASP.NET Core** for government and fintech sectors. Proven track record in high-throughput environments, including platforms processing **50,000+ daily transactions** across **500+ sites**.
 
@@ -14,7 +14,7 @@ Currently at **Qi Card** (International Smart Card), building **Karum** (e-comme
 
 ---
 
-## 🎓 Education
+## Education
 
 - **M.Sc. Computer Science** — Harbin Institute of Technology, Shenzhen (2023–2025)
   Thesis: *RAMRec – Retrieval-Augmented Memory for Sequential Recommendation* (+10.5% NDCG@10 over SOTA)
@@ -36,7 +36,7 @@ Currently at **Qi Card** (International Smart Card), building **Karum** (e-comme
 ---
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zaidtsx&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -47,7 +47,7 @@ Currently at **Qi Card** (International Smart Card), building **Karum** (e-comme
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - 📧 Email: zaidqassim12@gmail.com
 - 📱 Phone: +964 782 102 7100
