@@ -35,42 +35,14 @@ Currently at **Qi Card** (International Smart Card), building **Karum** (e-comme
 
 ---
 
-## 💼 Experience
-
-**Backend Developer** — Qi Card (International Smart Card) · Jun 2023 – Present
-- Engineered `oil.jabiapp.net`, a real-time financial dashboard processing 50,000+ daily transactions across 500+ fuel stations for the Iraqi Ministry of Oil
-- Built **Rawafid**, an ETL/data ingestion system integrating Iraqi government financial platforms
-- Contributed to backend integration with SuperQi, delivering in-platform mini-apps
-
-**Full-Stack Web Developer** — Al Kafeel Information Technology Center · Sep 2021 – Apr 2023
-- Promoted to Team Leader within six months, managing a 5-member team
-- Architected **Shams Algharee** e-commerce platform (RESTful APIs, Vue.js 2 admin dashboard, real-time chat)
-
-**Backend Developer (Part-time)** — Scode Company · Jun 2021 – Jun 2022
-- Sole backend developer for a pharmaceutical ERP system (ASP.NET Core, EF Core, SQL Server)
-
-**Backend Engineer (Freelance)** — Ministry of Interior, Patient Care System · Feb 2022 – Oct 2023
-- Architected core backend for a medical center platform with clinical workflows, RBAC, and financial/legal subsystems
-
----
-
-## 🔑 Key Projects
-
-- **Rawafid Backend API** — Enterprise .NET 10 API with Vertical Slice Architecture + CQRS, RBAC, JWT + TOTP (2FA), AWS OpenSearch audit trails
-- **RAMRec Framework** — Master's thesis: retrieval-augmented recommendation with Shannon Entropy diversity analysis, +10.5% NDCG@10
-- **Jabi Platform & Oil Stations Dashboard** — Real-time analytics pipeline for 500+ fuel stations nationwide
-- **Enterprise Medical Center System** — Full-stack Clean Architecture platform for multi-clinic operations
-- **Shams Algharee** — Print shop SaaS with real-time messaging (web + iOS)
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidtsx&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zaidtsx&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
